@@ -21,8 +21,4 @@ img.onclick = () => {
 };
 
 
-const clickerUP = () => {
-const clickerUpper = Number(clicker.textContent) + 1;}
-        
-
 
